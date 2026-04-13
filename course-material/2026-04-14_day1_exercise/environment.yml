@@ -1,0 +1,10 @@
+name: course_py
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - notebook
+  - pandas
+prefix: /Users/jiahui/anaconda3/envs/course_py
